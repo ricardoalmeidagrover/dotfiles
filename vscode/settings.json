@@ -1,0 +1,35 @@
+{
+  "workbench.colorTheme": "Default Light+",
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.useLanguageServer": true,
+  "explorer.confirmDelete": false,
+  "files.trimTrailingWhitespace": true,
+  "[ruby]": {
+    "editor.defaultFormatter": "rebornix.ruby"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "solargraph.diagnostics": true,
+  "solargraph.formatting": true,
+  "ruby.format": "rubocop",
+  "terminal.integrated.env.osx": {
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
