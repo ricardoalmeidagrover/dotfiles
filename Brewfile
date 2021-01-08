@@ -14,7 +14,6 @@ brew 'node'
 brew 'zsh'
 brew 'zsh-syntax-highlighting'
 
-brew 'mysql@5.7'
 brew 'postgresql'
 
 # applications
@@ -25,4 +24,4 @@ cask 'visual-studio-code'
 cask 'iterm2'
 
 # 'mas install'
-mas '1Password', id: 443_987_910
+# mas '1Password', id: 443_987_910
