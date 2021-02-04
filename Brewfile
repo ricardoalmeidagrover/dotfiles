@@ -9,12 +9,20 @@ tap 'homebrew/cask'
 brew 'docker'
 brew 'git'
 brew 'node'
+brew 'deno'
+brew 'awscli'
+brew 'curl'
+brew 'postgresql'
+brew 'kafka'
+brew 'nvm'
+brew 'ruby'
+brew 'ruby-build'
+brew 'rust'
+brew 'altair-graphql-client'
 
 # zsh
 brew 'zsh'
 brew 'zsh-syntax-highlighting'
-
-brew 'postgresql'
 
 # applications
 cask 'google-chrome'
