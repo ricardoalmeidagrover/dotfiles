@@ -18,7 +18,6 @@ brew 'nvm'
 brew 'ruby'
 brew 'ruby-build'
 brew 'rust'
-brew 'altair-graphql-client'
 
 # zsh
 brew 'zsh'
@@ -30,6 +29,7 @@ cask 'slack'
 cask 'spotify'
 cask 'visual-studio-code'
 cask 'iterm2'
+cask 'altair-graphql-client'
 
 # 'mas install'
 # mas '1Password', id: 443_987_910
